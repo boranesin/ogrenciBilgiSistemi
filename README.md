@@ -1,2 +1,2 @@
 # ogrenciBilgiSistemi
-öğrenci not girişi yapılabilen bilgi sistemi
+öğrencilerin not girişlerini yapılabilen bilgi sistemi
